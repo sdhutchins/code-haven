@@ -27,4 +27,4 @@ Take what you wish.
 Contributors
 -------------
 
-Send a [:email:](mailto:sdhutchins@outlook.com) to me.
+Send a [:email:](mailto:shaurita.d.hutchins@gmail.com) to me.
