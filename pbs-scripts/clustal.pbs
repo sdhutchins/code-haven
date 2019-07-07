@@ -1,0 +1,21 @@
+# Author: Shaurita D. Hutchins
+# Date Created: Tue Apr  4 11:21:44 2017
+# Project Name: KARG Project
+# This bash script aligns.
+
+#PBS -S /bin/bash
+#PBS -m bea
+#PBS -M shutchins2@umc.edu
+#PBS -l select=8:ncpus=1:mem=16gb -l place=free
+#PBS -l cput=80:00:00
+#PBS -l walltime=80:00:00
+#PBS -N clustal
+#PBS -o logs/clustal.o${PBS_JOBID}
+#PBS -e logs/clustal.e${PBS_JOBID}
+#PBS -j oe
+
+cd ${PBS_O_WORKDIR}
+
+python3 clustal.py
+
+mail -s "clustal.py script completed" shutchins2@umc.edu < logs/clustal.log

@@ -1,0 +1,1276 @@
+{
+    "name": "stress-microbiome-analysis",
+    "type": "directory",
+    "children": [
+        {
+            "name": ".gitignore",
+            "type": "file"
+        },
+        {
+            "name": ".gitmodules",
+            "type": "file"
+        },
+        {
+            "name": ".Rhistory",
+            "type": "file"
+        },
+        {
+            "name": "Archive",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "2018_12_8_Stress_Microbiome_Project.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "create_scatterplots.py",
+                    "type": "file"
+                },
+                {
+                    "name": "Documentation",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "16S_mothur_miseq_docs.jpg",
+                            "type": "file"
+                        },
+                        {
+                            "name": "16S_qiime_miseq_docs.jpg",
+                            "type": "file"
+                        },
+                        {
+                            "name": "ampvis2_heat_map.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Class_heat_tree.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Edges_legend.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Erysipelotrichaceae_UCG-004.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Family_heat_tree.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Genus_heat_tree.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "ggtree_with_phyloseq_heatmap.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "heat-tree_legend.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Lactobacillaceae.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "metacoder1_docs.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "metacodeR_heat_tree.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Nodes_legend.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Order_heat_tree.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Phylum_heat_tree.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Prevotellaceae_NK3B31_group.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Species_heat_tree.png",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Stress induced alteration of gut microbiome in rhesus monkeys.docx",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Stress_Microbiome_Project.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Stress_Microbiome_Project.Rmd",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "ggplot.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "log2foldchange.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "Manuscripts",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "A_Core_Gut_Microbiome_in_Obese_and_Lean_Twins.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Gut_Microbiota_in_Children_with_Type1_Diabetes_Differs_from_that_in_Healthy_Children.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Metacoder-An_R_Package_for_Visualization_and_Manipulation_of_Community_Taxonomic_Diversity_Data.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "miseq-output-and-analysis-folders-qrc-15034791-c.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "miseq-reporter-generate-fastq-workflow-guide-15042322-01.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Phyloseq-An_R_Package_for_Reproducible_Interactive_Analysis_and_Graphics_of_Microbiome_Census_Data.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Shiny-Phyloseq-Web_Application_for_Interactive_Microbiome_Analysis_with_Provenance_Tracking.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "SILVA-RDP-Greengenes-NCBI_and_OTT-How_Do_These_Taxonomies_Compare.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "name": "stress_microbiome_library.Data",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "PDF",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "0271819446",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "The_Biological_Observation_Matrix_BIOM_Format.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "0326129570",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "Shiny-Phyloseq-Web_Application_for_Interactive.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "0367771809",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "miseq-reporter-generate-fastq-workflow-guide-1.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "1960971797",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "The_Biological_Observation_Matrix_BIOM_Format.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "2237181389",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "Metacoder-An_R_Package_for_Visualization_and_M.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "2526984139",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "miseq-output-and-analysis-folders-qrc-15034791.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "2591650730",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "A_Core_Gut_Microbiome_in_Obese_and_Lean_Twins.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "2799204319",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "SILVA-RDP-Greengenes-NCBI_and_OTT-How_Do_These.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "3468707209",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "Phyloseq-An_R_Package_for_Reproducible_Interac.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "3615331459",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "Shiny-Phyloseq-Web_Application_for_Interactiv1.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "3662313236",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "A_Core_Gut_Microbiome_in_Obese_and_Lean_Twins1.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "3781073204",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "SILVA-RDP-Greengenes-NCBI_and_OTT-How_Do_Thes1.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "4106910724",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "Gut_Microbiota_in_Children_with_Type1_Diabete1.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "4260659755",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "Gut_Microbiota_in_Children_with_Type1_Diabetes.pdf",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "rdb",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "csort.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "csort.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "csort.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "db.opt",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "jterms.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "jterms.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "jterms.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "misc.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "misc.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "misc.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "pdf_index.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "pdf_index.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "pdf_index.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs_ext.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs_ext.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs_ext.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "terms.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "terms.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "terms.MYI",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "tdb",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "csort.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "csort.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "csort.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "db.opt",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "jterms.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "jterms.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "jterms.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "misc.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "misc.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "misc.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "pdf_index.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "pdf_index.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "pdf_index.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs_ext.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs_ext.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "refs_ext.MYI",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "terms.frm",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "terms.MYD",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "terms.MYI",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "stress_microbiome_library.enl",
+                            "type": "file"
+                        },
+                        {
+                            "name": "The_Biological_Observation_Matrix_BIOM_Format.pdf",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "mapping.txt",
+                    "type": "file"
+                },
+                {
+                    "name": "Nephele_Data",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "global.R",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Nephele_Input",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "MiSeq_qiime_mothur_template.xlsx",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "stress_microbiome_mapping.csv",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "stress_microbiome_mapping.txt",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "README.md",
+                            "type": "file"
+                        },
+                        {
+                            "name": "SILVA_Output",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "Decompressed_Data",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "Nephele_local.html",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "Nephele_local_files",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "33F44067786E7D28D9DF54641B253E29.cache.js.download",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "analytics.js.download",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "bootstrap.min.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "bootstrap.min.js.download",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "CloudPipeline.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "CloudPipeline.nocache.js.download",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "font-awesome.min.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "hhs-logo-footer.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "hhs-logo-topbar.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "ie10-viewport-bug-workaround.js.download",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "jquery-1.11.3.min.js.download",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "MessageBox.css",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "nih-logo-footer.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "nih-logo-nav.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "nih-logo-topbar.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "saved_resource(1).html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "saved_resource.html",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "Thumbs.db",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "usagov-logo-footer.png",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "nephele_pipeline_output.pdf",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "OTU_table.biom",
+                    "type": "file"
+                },
+                {
+                    "name": "Robs_Workflow",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "Centralized_Data",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "index",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "data.txt",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "data2.csv",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "mapping_data.csv",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "nephele_codes.txt",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "R1_file_list.txt",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "R2_file_list.txt",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "Stressed_Control_metadata.txt",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Old_Heat_Tree_Workflows",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "ampvis2_workflow.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Class_heat-tree.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Class_heat-tree.tiff",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Family_heat-tree.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Family_heat-tree.tiff",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Genus_heat-tree.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Genus_heat-tree.tiff",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Kingdom_heat-tree.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Kingdom_heat-tree.tiff",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "metacoder_workflow.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Order_heat-tree.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Order_heat-tree.tiff",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "parse_taxonomy_silva.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "phyloseq_metacoder_workflow.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "phyloseq_metacoder_workflow2.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "phyloseq_workflow.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Phylum_heat-tree.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Phylum_heat-tree.tiff",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "scatter-plot-workflow.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "scatter-plot-workflow2.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Species_heat-tree.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Species_heat-tree.tiff",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "Stress_Microbiome_Project.pdf",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "tree-subset.R",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "tree-workflow.R",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Python",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "centralize_data.py",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "tree-functions.py",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "utils.py",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "__init__.py",
+                                    "type": "file"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Shauritas_Stress_Microbiome_Workflow",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "create_scatterplots.R",
+                            "type": "file"
+                        },
+                        {
+                            "name": "data",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "small_list.xlsx",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "stress_microbiome.xlsx",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "parse_microbiome_excel.py",
+                            "type": "file"
+                        },
+                        {
+                            "name": "results",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "exampleplot.png",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "parsed_stress_microbiome_data.csv",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "parsed_stress_microbiome_data.xlsx",
+                                    "type": "file"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Xiaos_Data",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "Parsed Data",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "Average",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "class",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "OTU_class.csv",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "TAX_class.csv",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "OTU_family.csv",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "OTU_order.csv",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "phyloseq_data.xlsx",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "phylum",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "OTU_phylum.csv",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "TAX_phylum.csv",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "TAX_family.csv",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "TAX_order.csv",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "~$phyloseq_data.xlsx",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Full",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "data.xlsx",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "phylum",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "OTU_phylum.csv",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "phyloseq_phylum.xlsx",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "phylum_heatmap1.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "sample_data.csv",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "TAX_phylum.csv",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "Thumbs.db",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "samples.csv",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "sample_data.csv",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "species",
+                                            "type": "directory",
+                                            "children": [
+                                                {
+                                                    "name": "OTU_species.csv",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "phyloseq_species.xlsx",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "name": "TAX_species.csv",
+                                                    "type": "file"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "taxa.csv",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "parsed_stress_microbiome_data.csv",
+                            "type": "file"
+                        },
+                        {
+                            "name": "parsed_stress_microbiome_data.txt",
+                            "type": "file"
+                        },
+                        {
+                            "name": "parsed_stress_microbiome_data.xlsx",
+                            "type": "file"
+                        },
+                        {
+                            "name": "Project_286-25346562",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "initial OTU data",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "MiSeq_Output_Analysis_After.png",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "MiSeq_Output_Analysis_Before.png",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "miseq_output_and_analysis_folders.pdf",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "miseq_reporter_generate_fastq_workflow_guide.pdf",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "README.md",
+                                            "type": "file"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Processed_Data",
+                                    "type": "directory",
+                                    "children": [
+                                        {
+                                            "name": "README.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "name": "~$New Microsoft Excel Worksheet.xlsx",
+                                            "type": "file"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "To Rob (Stress Microbiome Study).docx",
+                            "type": "file"
+                        }
+                    ]
+                },
+                {
+                    "name": "xz_biome_plots.R",
+                    "type": "file"
+                },
+                {
+                    "name": "__init__.py",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "exploratory_analysis.R",
+            "type": "file"
+        },
+        {
+            "name": "heat_tree_workflow.R",
+            "type": "file"
+        },
+        {
+            "name": "input_data",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "greengenes.tre",
+                    "type": "file"
+                },
+                {
+                    "name": "greengenes_OTU.biom",
+                    "type": "file"
+                },
+                {
+                    "name": "nephele_metadata.txt",
+                    "type": "file"
+                },
+                {
+                    "name": "silva.tre",
+                    "type": "file"
+                },
+                {
+                    "name": "silva_OTU.biom",
+                    "type": "file"
+                },
+                {
+                    "name": "silva_OTU.summary",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "libs",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "bootstrap",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "name": "css",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "bootstrap-responsive.min.css",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "bootstrap.min.css",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "user.css",
+                                    "type": "file"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "javascript",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "name": "bootstrap.min.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "jquery-1.10.1.min.js",
+                                    "type": "file"
+                                },
+                                {
+                                    "name": "user.js",
+                                    "type": "file"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "output",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "combined_heat_tree.tiff",
+                    "type": "file"
+                },
+                {
+                    "name": "Greengenes_heat_tree.tiff",
+                    "type": "file"
+                },
+                {
+                    "name": "SILVA_heat_tree.tiff",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "phyloseq_analysis.R",
+            "type": "file"
+        },
+        {
+            "name": "phyloseq_output",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "cca_plot.png",
+                    "type": "file"
+                },
+                {
+                    "name": "pcoa_plot.png",
+                    "type": "file"
+                },
+                {
+                    "name": "stacked_bar_abundance_plot.png",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "rdata_files",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "global.R",
+                    "type": "file"
+                },
+                {
+                    "name": "greengenes_metacoder_obj.RData",
+                    "type": "file"
+                },
+                {
+                    "name": "greengenes_phyloseq_obj.RData",
+                    "type": "file"
+                },
+                {
+                    "name": "install_packages.R",
+                    "type": "file"
+                },
+                {
+                    "name": "phyloseq_obj.RData",
+                    "type": "file"
+                },
+                {
+                    "name": "silva_gg_metacoder_obj.RData",
+                    "type": "file"
+                },
+                {
+                    "name": "silva_gg_phyloseq_obj.RData",
+                    "type": "file"
+                },
+                {
+                    "name": "silva_metacoder_obj.RData",
+                    "type": "file"
+                },
+                {
+                    "name": "silva_phyloseq_obj.RData",
+                    "type": "file"
+                },
+                {
+                    "name": "_default_parameters.R",
+                    "type": "file"
+                },
+                {
+                    "name": "_metacoder.R",
+                    "type": "file"
+                },
+                {
+                    "name": "_phyloseq.R",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "README.md",
+            "type": "file"
+        },
+        {
+            "name": "scatter_plot_workflow.R",
+            "type": "file"
+        }
+    ]
+}
